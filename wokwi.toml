@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Interrup_deboun.uf2'
+elf = 'build/Interrup_deboun.elf'
