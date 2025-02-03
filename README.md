@@ -1,6 +1,6 @@
-Programa em C desenvolvido para a placa BitDogLab com microcontrolador RP2040
+°Programa em C desenvolvido para a placa BitDogLab com microcontrolador RP2040
 
-Descrição do Projeto
+EDescrição do Projeto
 
 Este projeto visa o desenvolvimento de um programa em C para ser executado na placa RP2040. O programa possui as seguintes funcionalidades:
 
@@ -53,24 +53,7 @@ Módulo para a leitura e debouncing dos botões.
 Módulo para o controle e exibição dos números nos LEDs WS2812.
 Todos os módulos serão bem documentados e comentados para facilitar a compreensão.
 
-Estrutura de Pastas
-bash
-Copiar
-/src
-    /main.c                 # Código principal do programa
-    /led_rgb.c              # Controle do LED RGB
-    /buttons.c              # Controle dos botões A e B
-    /ws2812.c               # Controle dos LEDs WS2812
-    /debouncing.c           # Implementação do debouncing dos botões
-    /irq_handler.c          # Rotinas de interrupção dos botões
-/inc
-    /led_rgb.h              # Cabeçalho para controle do LED RGB
-    /buttons.h              # Cabeçalho para controle dos botões
-    /ws2812.h               # Cabeçalho para controle dos LEDs WS2812
-    /debouncing.h           # Cabeçalho para debouncing
-    /irq_handler.h          # Cabeçalho para interrupções
-/Makefile                  # Makefile para compilação
-Compilação e Execução
+
 1. Configuração do Ambiente
 Para compilar o código, foi necessário ter o ambiente de desenvolvimento para RP2040 configurado. 
 
