@@ -11,6 +11,8 @@
 #define BUTTON_A 5  // Pino do botão para incrementar o numero gerado na matriz de leds
 #define BUTTON_B 6  // Pino do botão para decrementar o numero gerado na matriz de leds
 #define led_pin_red 13
+//#define led_pin_red 12
+//#define led_pin_red 11
 
 static volatile uint32_t last_time_a = 0; // Armazena o tempo do último evento para BUTTON_A
 static volatile uint32_t last_time_b = 0; // Armazena o tempo do último evento para BUTTON_B

@@ -1,4 +1,4 @@
-**Programa em C desenvolvido para a placa BitDogLab com microcontrolador RP2040**
+**Placa BitDogLab com a matriz de leds representando efeitos visuais dos números de 0 a 9.**
 
 **EDescrição do Projeto**
 
