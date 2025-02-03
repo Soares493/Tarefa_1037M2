@@ -1,6 +1,6 @@
 **Placa BitDogLab com a matriz de leds representando efeitos visuais dos números de 0 a 9.**
 
-**EDescrição do Projeto**
+**Descrição do Projeto**
 
 Este projeto visa o desenvolvimento de um programa em C para ser executado na placa RP2040. O programa possui as seguintes funcionalidades:
 
@@ -68,4 +68,5 @@ Após carregar o código na placa RP2040, o programa inicia automaticamente. O L
 Segue abaixo o link do vídeo demonstrando o funcionamento da placa:
 
 
-https://drive.google.com/file/d/1Nr0aIxgP2RgO5l3GtDgXsK_UoeznQF0L/view?usp=sharing
+
+https://drive.google.com/file/d/14erbXt-vfyuMt9PjsJCpjDE5_xTJoOs2/view?usp=sharing
